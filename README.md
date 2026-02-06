@@ -23,12 +23,21 @@ The project includes:
 
 The original cover is used only as a **visual reference** for comparison purposes.
 
+<img width="372" height="583" alt="image" src="https://github.com/user-attachments/assets/c8cab24f-c3bb-4ed4-8425-ab6b8127931e" />
+<img width="384" height="577" alt="image" src="https://github.com/user-attachments/assets/d0d8639d-bd33-44b0-abe1-368d09c6d545" />
+
+
 **2\. Audio Album (Original)**
 
 - **Album:** _The Dark Side of the Moon_
 - **Artist:** Pink Floyd
 - **Year:** 1973
 - **Medium:** Compact Disc
+The original album cover is referenced due to its iconic minimalist and symbolic design.
+  <img width="400" height="302" alt="image" src="https://github.com/user-attachments/assets/48804da6-4865-4da5-a825-3b3cb70ff8f9" />
+  
+<img width="335" height="336" alt="image" src="https://github.com/user-attachments/assets/f5fa4215-41a5-402f-bf18-9cc58ef3a332" />
+
 **AI-Generated Works**
 
 **1\. AI-Generated Book Cover**
@@ -59,6 +68,9 @@ A node-based workflow was implemented using **ComfyUI**, ensuring transparency a
 - Local image saving
 
 The workflow was fully executed **offline** on a local machine.
+
+<img width="974" height="458" alt="image" src="https://github.com/user-attachments/assets/e0ddd405-9daa-431e-b75e-d37a4420a6fc" />
+
 
 **Image Generation Model**
 
@@ -137,9 +149,13 @@ Screenshots were captured after execution to demonstrate the complete workflow:
   - No dedicated GPU (Intel integrated graphics)
 - **Operating System:** Windows
 - **Internet Usage:** Model download only (no cloud inference)
+<img width="974" height="381" alt="image" src="https://github.com/user-attachments/assets/db73b9b4-f2c5-4c97-aaf7-ac432cadeb40" />
+
 **Conclusion**
 
 This project successfully demonstrates a **fully self-hosted generative AI workflow** for media cover design.
+<img width="974" height="379" alt="image" src="https://github.com/user-attachments/assets/35753889-00db-4268-b07d-c7c06c4d8f95" />
+
 All requirements were satisfied, including offline execution, workflow transparency, and reproducibility, making the solution suitable for academic evaluation in **Advanced Generative AI**.
 
 Github: <https://github.com/azizkuchkarov/cap.stone-pr-2-adv.gen.ai>
